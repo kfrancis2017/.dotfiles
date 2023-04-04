@@ -1,6 +1,4 @@
-# My Dotfiles
-These are my dotfile configuration files for different software in Bash.
-## .vimrc
-This is my custom .vimrc configuration for Vim.
-## .bashrc
-This is my custom .bashrc configuration for Bash.
+# Bash Customization
+These are my customizations for my interactive bash shell, including aliases which create shortcuts in the coding process.
+This code also cleans up after itself using the cleanup.sh shell script.
+It prevents any file duplication using the if ! -d condition. 
